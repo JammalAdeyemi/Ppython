@@ -1,3 +1,0 @@
-Github Link: https://github.com/JammalAdeyemi/Python-Django/blob/main/Python/Tutorial/HyperionDev/NLP/semantic.py
-
-Github Link 2: https://github.com/JammalAdeyemi/Python-Django/blob/main/Python/Tutorial/HyperionDev/NLP/watch_next.py

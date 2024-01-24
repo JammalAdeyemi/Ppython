@@ -1,3 +1,0 @@
-The ﻿min of [1, 2, 3, 4, 5, 6] is Invalid operation
-The max of [1, 2, 3, 4, 5, 6] is 6
-The avg of [1, 2, 3, 4, 5, 6] is 3.5

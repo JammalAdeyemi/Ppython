@@ -1,3 +1,0 @@
-admin, adm1n, admin
-jammal, jam, user
-test1, test1, user
