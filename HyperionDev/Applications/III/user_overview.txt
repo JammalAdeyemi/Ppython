@@ -1,0 +1,10 @@
+User Overview:
+Total number of users: 1
+Total number of tasks: 1
+
+User: jammal
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 100.00%
+Percentage of tasks completed: 100.00%
+Percentage of tasks still to be completed: 0.00%
+Percentage of overdue tasks: 0.00%
